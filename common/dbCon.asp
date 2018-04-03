@@ -3,7 +3,7 @@ Dim dbCon , dbIP, dbId, dbPasswd, strSql
 
 dbIP = "localhost"
 dbId = "sa"
-dbPasswd = "ghtp8787@"
+dbPasswd = "*********"
 dbName = "testdb"
 
 set dbCon = Server.CreateObject("ADOdb.Connection")
